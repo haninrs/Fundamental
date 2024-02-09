@@ -97,3 +97,7 @@ console.log(typeof isTrue);
 console.log(typeof noData);
 console.log(typeof noAssigned);
 console.log(typeof person);
+
+
+
+// tes git day-3
