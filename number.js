@@ -7,7 +7,7 @@ console.log(typeof count);              // number
 console.log(typeof count.toString());   // string
 
 // .toExponensial
-console.log(count.toExponential(0));  //RANGE 0-20 | 1e+2
+console.log(count.toExponential(3));  //RANGE 0-20 | 1e+2
 
 // .toFixed
 const num = 5.6785344
@@ -16,6 +16,7 @@ console.log(num.toFixed(2));     // 6 | pembulatan ke atas
 // .toPrecision
 const numb = 0.0026102;
 console.log(numb.toPrecision(1)); // 0.003 | ya begitulah
+console.log(typeof (numb));
 
 
 
