@@ -4,7 +4,7 @@
 //  Formula :  NumberF = (9/5 NumberC) + 32
 let derCelcius = 60;
 let f = 0;
-
+   
 if (derCelcius >=0 && derCelcius<=100) {
     f = (9/5*derCelcius) + 32;
     console.log(`${derCelcius} Celcius -> ${f} farhenheit`);
