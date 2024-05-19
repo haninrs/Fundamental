@@ -3,6 +3,7 @@
 // now
 let now = new Date();
 console.log(now);   // 2024-02-06 |tgl saat ini dan jam waktu UTC (-7 dr kita)
+console.log(typeof now);   // object
 
 // 0
 let data = new Date(0);
