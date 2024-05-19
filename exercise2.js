@@ -86,7 +86,7 @@ console.log(`5. Day remains before 2025 is ${Math.floor(diff2)} days`);
 // ○ Example: 366 days → 1 year, 0 month, 1 day
 
 // DECLAIR
-const day = 40;
+const day = 400;
 
 // PROCCES
 

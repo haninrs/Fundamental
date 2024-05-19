@@ -14,3 +14,4 @@ console.log(Math.pow(5, 3));    // pangkat 5*5*5
 console.log( 5 ** 3);  // sama kayak pow pangkat
 console.log(Math.tan(180));  // cosintan
 
+
