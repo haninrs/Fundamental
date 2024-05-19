@@ -1,11 +1,11 @@
 import React from "react";
 
-export const iniPageBiarConflict = () => {
+export const gtau = () => {
   return (
     <div>
-      <div>thankyiu</div>
+      <h6>thankyiu</h6>
 
-      <span>hani cantik</span>
+      <span>hani btuk</span>
     </div>
   );
 };
